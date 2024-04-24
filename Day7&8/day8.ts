@@ -1,5 +1,5 @@
 // Day8
-/* 
+
 let friends: string[] = ["Alice", "Bob", "Charlie"];
 
 console.log(friends[3]); // Intentional error: Arrays are zero-indexed, so index 3 is out of bounds.
@@ -41,7 +41,7 @@ console.log(car.length < 4)
 
 console.log("Is car === 'subaru'? I predict False.")
 console.log(car.length === 4 )
- */
+
 // Q24
 
 // Tests for equality and inequality with strings:
